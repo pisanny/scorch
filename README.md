@@ -7,7 +7,7 @@
 5.1.2.1 Update SR (5.1.2 Extension of the External Account).ois_export  - №1 продление учётной записи в external AD
 5.1.2.2 Extension of the External Account (5.1.2 Extension of the External Account).ois_export  - №2 продление учётной записи в external AD
 5.1.3.1 Password reset (External).ois_export - сброс пароля для учётной записи в external AD
-5.3.3 Add User to Group sec_velcom_jira.ois_export - добавление учётной записи в группу sec_velcom_jira - для доступа к Jira
+5.3.3 Add User to Group jira.ois_export - добавление учётной записи в группу jira - для доступа к Jira
 5.7.2 Password reset.ois_export - сброс пароля для учётной записи в AD
 5.8.1 Create SC_SG group (Tech Service).ois_export - создание группы безопасности в AD, включение функции группы рассылки (exchange), назначение менеджера группы. Группа создаётся для управления сервисом, назначения ответственного за сервис, рассылки оповещения ответственным с системы мониторинга и системы бэкапа.
 5.9.1 Add Permission (Domain Admins).ois_export - добавление заранее определённой учётной записи прав доменного администратора на определённый период (используется функция 2016). Для запроса доменного администатора ответственным работникам.
